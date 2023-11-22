@@ -3,7 +3,7 @@
 
 ### Hello! I'm Liu Zhibo a Master degreee student in NUAA, China.
 
-### Portfolio: https://codecoffee.me
+### More about me: https://codecoffee.me
 
 <!--
 <a href="https://twitter.com/dhanani_brijesh">
