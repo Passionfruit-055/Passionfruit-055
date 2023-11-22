@@ -28,10 +28,9 @@
 
 <br />
 
-[![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&link=https://github.com/Passionfruit-055)](https://github.com/Passionfruit-055) 
-[![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&link=https://github.com/Passionfruit-055)](https://github.com/Passionfruit-055) 
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&link=https://github.com/Passionfruit-055)](https://github.com/Passionfruit-055) 
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C++&link=https://github.com/Passionfruit-055)](https://github.com/Passionfruit-055) 
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&link=https://github.com/Passionfruit-055)](https://github.com/Passionfruit-055) 
+[![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat&logo=pytorch&link=https://github.com/Passionfruit-055)](https://github.com/Passionfruit-055) 
+[![C](https://img.shields.io/badge/-C&C++-A8B9CC?style=flat&logo=C&link=https://github.com/Passionfruit-055)](https://github.com/Passionfruit-055) 
 
 [![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=pycharm&link=https://github.com/Passionfruit-055)](https://github.com/Passionfruit-055) 
 [![Shell](https://img.shields.io/badge/-Shell-FFD500?style=flat&logo=Shell&link=https://github.com/Passionfruit-055)](https://github.com/Passionfruit-055) 
